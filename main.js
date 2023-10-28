@@ -1,4 +1,6 @@
 // canvas config
+
+let a = 0;
 let canvas = document.querySelector("canvas");
 canvas.width = 600;
 canvas.height = 600;
